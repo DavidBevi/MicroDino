@@ -1,4 +1,4 @@
-;▼▼▼ MICRO DINO ▼▼▼
+﻿;▼▼▼ MICRO DINO ▼▼▼
 A_IconTip:= "MICRO DINO v0.3 by DavidBevi" ; reddit.com/r/AutoHotkey/comments/185zu9v
 A_IconTip.= "`n☻ Hold CTRL to run `n▲ Press SHIFT to jump"
 
