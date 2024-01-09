@@ -10,7 +10,7 @@ You can also remap the controls (same method).<br>
 <p>
 <b>HOW TO INSTALL:</b> MicroDino.ahk is a script made to be executed by AutoHotkey v2.0<br>
 1. Download the program (AutoHotkey) here >> www.autohotkey.com (VERSION 2.0)<br>
-2. Download my script (MicroDino.ahk) and open it (double click)<br>
+2. Download my script ([MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.3/MicroDino.ahk)) and open it (double click)<br>
 3. <i>Have fun!</i> ☻
 </p>
 
