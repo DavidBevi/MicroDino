@@ -1,4 +1,4 @@
-DEMO: youtu.be/I64oMse5Jko
+DEMO: www.youtu.be/I64oMse5Jko
 
 ▼ INFO: Micro Dino is a little game inspired by Dino Run.
 I made it for myself to help me pass the time when I wait for an email, or something similar.
