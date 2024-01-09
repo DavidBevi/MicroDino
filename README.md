@@ -1,7 +1,8 @@
-<p>
-<h3><b>MICRO DINO</b>: a little game inspired by Dino Run.
+<h1><img src="https://raw.githubusercontent.com/DavidBevi/MicroDino/main/MicroDinoIco.ico" width="30" height="30" style="margin:-4 4 -4 0" /> MICRO DINO</h1>
 
-**[Download MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.3/MicroDino.ahk)**</h3>
+<p>
+
+**[Download MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.3/MicroDino.ahk)**<br><br>
 <b>DEMO:</b> www.youtu.be/I64oMse5Jko<br>
 I made it for myself to help me pass the time when I wait for an email, or something similar.<br>
 You can change screen position (you most likely need to do so >> see CUSTOMIZATION below).<br>
