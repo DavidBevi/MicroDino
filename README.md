@@ -1,5 +1,7 @@
 <p>
-<h3><b>MICRO DINO</b>: a little game inspired by Dino Run.</h3>
+<h3><b>MICRO DINO</b>: a little game inspired by Dino Run.
+
+**[Download MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.3/MicroDino.ahk)**</h3>
 <b>DEMO:</b> www.youtu.be/I64oMse5Jko<br>
 I made it for myself to help me pass the time when I wait for an email, or something similar.<br>
 You can change screen position (you most likely need to do so >> see CUSTOMIZATION below).<br>
@@ -10,7 +12,7 @@ You can also remap the controls (same method).<br>
 <p>
 <b>HOW TO INSTALL:</b> MicroDino.ahk is a script made to be executed by AutoHotkey v2.0<br>
 1. Download the program (AutoHotkey) here >> www.autohotkey.com (VERSION 2.0)<br>
-2. Download my script ([MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.3/MicroDino.ahk)) and open it (double click)<br>
+2. Download my script (MicroDino.ahk) and open it (double click)<br>
 3. <i>Have fun!</i> ☻
 </p>
 
