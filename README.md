@@ -1,23 +1,31 @@
-DEMO: www.youtu.be/I64oMse5Jko
+<p>
+<h3><b>MICRO DINO</b>: a little game inspired by Dino Run.</h3>
+<b>DEMO:</b> www.youtu.be/I64oMse5Jko<br>
+I made it for myself to help me pass the time when I wait for an email, or something similar.<br>
+You can change screen position (you most likely need to do so >> see CUSTOMIZATION below).<br>
+You can also remap the controls (same method).<br>
+<b>COMMANDS</b>: Hold Ctrl to run the game, while doing that press Shift to jump.<br>
+</p>
 
-▼ INFO: Micro Dino is a little game inspired by Dino Run.
-I made it for myself to help me pass the time when I wait for an email, or something similar.
-I let it live in my taskbar, but you can set your desired position by editing PosX and PosY.
-You obviously can also remap the controls. Have fun!
-  - COMMANDS: it uses one key (Ctrl) to run the simulation and another one (Shift) to jump.
+<p>
+<b>HOW TO INSTALL:</b> MicroDino.ahk is a script made to be executed by AutoHotkey v2.0<br>
+1. Download the program (AutoHotkey) here >> www.autohotkey.com (VERSION 2.0)<br>
+2. Download my script (MicroDino.ahk) and open it (double click)<br>
+3. <i>Have fun!</i> ☻
+</p>
 
-
-▼ HOW TO PLAY: MicroDino.ahk is a script made to be executed by AutoHotkey v2.0 
-1. Download the program here >> www.autohotkey.com (VERSION 2.0)
-2. Then download MicroDino.ahk and open it
-  By editing my file you can easily:
-  - customize the position on your screen
-  - customize the controls
-  You can customize everything actually, do so if you want! :P
-► I suggest you to use it this! ◄
+<p>
+<b>CUSTOMIZATION:</b> Open MicroDino.ahk with any text editor (like Notepad) to easily:<br>
+ - customize the position on your screen by editing "PosX" and "PosY"<br>
+ - customize the commands (refer to www.autohotkey.com/docs/v2/Tutorial.htm for instructions)<br>
+ (Remember to save your edits before closing the file!)<br>
+<i>You can customize everything if you know what you're doing, do so if you want!</i> :P
+</p><br>
 
 -----------------------------------------------------------------------
-▼ ALTERNATIVE: MicroDino.exe is a standalone portable executable. Please notice:
- - You CANNOT customize the position on your screen
- - You CANNOT customize the controls
-It's aligned well on my PC, probably it's off-screen on yours. Use it at your own risk.
+<p>
+<b>ALTERNATIVE</b>: I'm sharing MicroDino.exe, which is a standalone portable executable, but <b>please notice:</b><br>
+ - You CANNOT customize the position on your screen<br>
+ - You CANNOT customize the controls<br>
+This executable works well on my PC but it's probably off-screen on yours. <b>Use it at your own risk.</b>
+</p>
