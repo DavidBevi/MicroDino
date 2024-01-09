@@ -1,5 +1,5 @@
-<h1><img src="https://raw.githubusercontent.com/DavidBevi/MicroDino/main/MicroDinoIco.ico" width="30" height="30" style="margin:-4 4 -4 0" /> MICRO DINO</h1>
-
+<h1><img src="https://raw.githubusercontent.com/DavidBevi/MicroDino/main/MicroDinoIco.ico" width="30" height="30" style="margin:-4 4 -4 0" /> MICRO DINO<br>
+<img src="https://raw.githubusercontent.com/DavidBevi/MicroDino/main/MicroDinoDemo.gif" height="60" style="margin:-4 4 -4 0" /></h1>
 <p>
 
 **[Download MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.3/MicroDino.ahk)**<br><br>
