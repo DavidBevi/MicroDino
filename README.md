@@ -2,7 +2,7 @@
 <p>
 
 **[Download MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.3/MicroDino.ahk)**<br><br>
-Micro Dino is a simple and light game inspired by Dino Run, the game inside Google Chrome. <br> 
+Micro Dino is a simple and super-light (<3kb) game inspired by Dino Run, the game inside Google Chrome. <br> 
 I made Micro Dino for myself, to help me pass the time when I wait for an email, or something similar.<br>
 You can change screen position (you most likely need to do so >> see CUSTOMIZATION below).<br>
 You can also remap the controls (same method).<br>
