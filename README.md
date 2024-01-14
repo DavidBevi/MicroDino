@@ -26,8 +26,10 @@ You can also remap the controls (same method).<br>
 
 -----------------------------------------------------------------------
 <p>
-<b>ALTERNATIVE</b>: I'm sharing MicroDino.exe, which is a standalone portable executable, but <b>please notice:</b><br>
- - You CANNOT customize the position on your screen<br>
- - You CANNOT customize the controls<br>
-This executable works well on my PC but it's probably off-screen on yours. <b>Use it at your own risk.</b>
+<b>ALTERNATIVE</b>: MicroDino.exe, is a standalone portable executable, but <b>please notice</b> that you CANNOT customize the position on your screen, nor the controls. It works well on my PC but it's probably off-screen on yours. <b>Use it at your own risk.</b>
+</p>
+
+-----------------------------------------------------------------------
+<p>
+<b>HISTORY</b>: ▼0.1: initial release. ▼0.2: thanks to u/plankoe, Micro Dino now stays on top of the taskbar! ▼0.21: code optimization. ▼0.22: new info+instructions in tray-tooltip. ▼0.3: new collision detection, new game-over screen. ▼0.4: script now accepts 2 parameters for X and Y positions, script can now be moved (drag-n-drop)
 </p>
