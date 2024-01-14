@@ -26,7 +26,7 @@ You can also remap the controls (same method).<br>
 
 -----------------------------------------------------------------------
 <p>
-<b>ALTERNATIVE</b>: MicroDino.exe, is a standalone portable executable, but <b>please notice</b> that you CANNOT customize the position on your screen, nor the controls. It works well on my PC but it's probably off-screen on yours. <b>Use it at your own risk.</b>
+<b>ALTERNATIVE</b>: MicroDino.exe, is a standalone portable executable, but <b>please notice</b> that it's v0.3,  you CANNOT customize the position/controls <b>yet</b>. I'll compile it asap. <b>Use it at your own risk.</b>
 </p>
 
 -----------------------------------------------------------------------
