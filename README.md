@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/DavidBevi/MicroDino/main/MicroDinoDemo1.gif" height="90" style="margin:-4 4 -4 0" /></h1>
 <p>
 
-**[Download MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.3/MicroDino.ahk)**<br><br>
+**[Download MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.3/MicroDino.ahk)** for Windows<br><br>
 Micro Dino is a simple and super-light (<3kb) game inspired by Dino Run, the game inside Google Chrome. <br> 
 I made Micro Dino for myself, to help me pass the time when I wait for an email, or something similar.<br>
 You can change screen position (you most likely need to do so >> see CUSTOMIZATION below).<br>
