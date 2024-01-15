@@ -5,10 +5,10 @@ It's meant to be a tool to pass the time while waiting for an email, or somethin
 
 <h4 style="font-size:24; margin:16 0 -2 0">DOWNLOADS:</h4>
 
-| - [MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.6/MicroDino.ahk) (for geeks) || - [MicroDino0.6.exe](https://github.com/DavidBevi/MicroDino/releases/download/v0.6/MicroDino0.6.exe) (for normies)</h3>  |
-|-|-|-|
-|<b>FEATURES</b>:<br> - Script for AutoHotkey v2<br>- Hyper-lightweight (~4kb)<br>- Completely editable || <br>- Portable stand-alone game<br>- Regular lightweight (~900kb)<br>- It has a dinosaur in the  icon! |
-|<b>INSTALLATION</b>:<br>- Install AutoHotkey v2<br>- Download and open MicroDino.ahk||<br>- Just download it and open it<br>- <i>Have fun!</i>|
+| - [MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.6/MicroDino.ahk) (for geeks) | - [MicroDino0.6.exe](https://github.com/DavidBevi/MicroDino/releases/download/v0.6/MicroDino0.6.exe) (for normies)</h3>  |
+|-|-|
+|<b>FEATURES</b>:<br> - Script for AutoHotkey v2<br>- Hyper-lightweight (~4kb)<br>- Completely editable | <br>- Portable stand-alone game<br>- Regular lightweight (~900kb)<br>- It has a dinosaur in the  icon! |
+|<b>INSTALLATION</b>:<br>- Install AutoHotkey v2<br>- Download and open MicroDino.ahk|<br>- Just download it and open it<br>- <i>Have fun!</i>|
 
 
 
@@ -26,8 +26,7 @@ The position on your screen is changed by editing <b>guiX</b> and <b>guiY</b>.<b
  <span>&nbsp;&nbsp;</span> <i>Don't forget to save your edits before closing the file!</i>
 </p>
 <br>
-
-==============================
+-----------------------------------------------------------------------
 <p>
 <b>HISTORY</b>:<br> 
 ▼ 0.1: initial release.<br>
