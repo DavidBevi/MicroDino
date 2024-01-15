@@ -7,7 +7,7 @@ It's designed to stay over the taskbar, because I made it to kill time in short 
 | [MicroDino0.6.exe](https://github.com/DavidBevi/MicroDino/releases/download/v0.6/MicroDino0.6.exe) `for normies`</h3>  | [MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.6/MicroDino.ahk) `for geeks 🤓` |
 |-|-|
 |**FEATURES**:<br>- Portable stand-alone game<br>- Light-weight (~1mb)<br>- It has a dinosaur in the  icon! | <br>- Script for AutoHotkey v2<br>- Hyper-lightweight (~4kb)<br>- Completely editable |
-|**INSTALLATION**:<br>- Just download it and open it<br><span>&nbsp;</span>|<br>- Install AutoHotkey v2<br>- Download and open my script|
+|**INSTALLATION**:<br>- Just download it and open it<br><span>&nbsp;</span>|<br>- Install AutoHotkey v2<br>- Download and open my script<br><span>&nbsp;&nbsp;&nbsp;&nbsp;</span> or copy the code 👾|
 
 **COMMANDS**: Hold Ctrl to run the game, while doing that press Shift to jump.<br>
 
