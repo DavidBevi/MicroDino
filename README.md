@@ -4,12 +4,6 @@
 It's designed to stay over the taskbar, because I made it to kill time in short burst, when I'm waiting for an email or something similar.<br>
 
 **DOWNLOADS**:
-| [MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.6/MicroDino.ahk) `for geeks 🤓` | [MicroDino0.6.exe](https://github.com/DavidBevi/MicroDino/releases/download/v0.6/MicroDino0.6.exe) `for normies`</h3>  |
-|-|-|
-|**FEATURES**:<br> - Script for AutoHotkey v2<br>- Hyper-lightweight (~4kb)<br>- Completely editable | <br>- Portable stand-alone game<br>- Regular lightweight (~900kb)<br>- It has a dinosaur in the  icon! |
-|**INSTALLATION**:<br>- Install AutoHotkey v2<br>- Download and open it|- Just download it and open it</i>|
-
-**DOWNLOADS**:
 | [MicroDino0.6.exe](https://github.com/DavidBevi/MicroDino/releases/download/v0.6/MicroDino0.6.exe) `for normies`</h3>  | [MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.6/MicroDino.ahk) `for geeks 🤓` |
 |-|-|
 |**FEATURES**:<br>- Portable stand-alone game<br>- Light-weight (~1mb)<br>- It has a dinosaur in the  icon! | <br>- Script for AutoHotkey v2<br>- Hyper-lightweight (~4kb)<br>- Completely editable |
