@@ -5,7 +5,7 @@ It's meant to be a tool to pass the time while waiting for an email, or somethin
 
 <h4 style="font-size:24; margin:16 0 -2 0">DOWNLOADS:</h4>
 
-| - [MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.6/MicroDino.ahk) (for geeks) | - [MicroDino0.6.exe](https://github.com/DavidBevi/MicroDino/releases/download/v0.6/MicroDino0.6.exe) (for normies)</h3>  |
+| [MicroDino.ahk](https://github.com/DavidBevi/MicroDino/releases/download/v0.6/MicroDino.ahk) (for geeks) | [MicroDino0.6.exe](https://github.com/DavidBevi/MicroDino/releases/download/v0.6/MicroDino0.6.exe) (for normies)</h3>  |
 |-|-|
 |<b>FEATURES</b>:<br> - Script for AutoHotkey v2<br>- Hyper-lightweight (~4kb)<br>- Completely editable | <br>- Portable stand-alone game<br>- Regular lightweight (~900kb)<br>- It has a dinosaur in the  icon! |
 |<b>INSTALLATION</b>:<br>- Install AutoHotkey v2<br>- Download and open MicroDino.ahk|<br>- Just download it and open it<br>- <i>Have fun!</i>|
@@ -24,6 +24,8 @@ It's meant to be a tool to pass the time while waiting for an email, or somethin
 The position on your screen is changed by editing <b>guiX</b> and <b>guiY</b>.<br>
  <span>&nbsp;&nbsp;</span> More info can be found here: www.autohotkey.com/docs/v2/Tutorial.htm<br>
  <span>&nbsp;&nbsp;</span> <i>Don't forget to save your edits before closing the file!</i>
+
+>MicroDino can be dragged around, and if it spawns outside of your screen it should correct itself. You know that this is the case if the background is orange (it should be transparent).<br><br> If you want to set your preferred starting position you can either edit the file (as just explained) or make a shortcut with 2 parameters, first the X position, second  the Y position (for more info: www.digitalcitizen.life/shortcut-arguments-parameters-windows/)<br>
 </p>
 <br>
 -----------------------------------------------------------------------
