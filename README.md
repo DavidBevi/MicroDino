@@ -31,5 +31,13 @@ You can also remap the controls (same method).<br>
 
 -----------------------------------------------------------------------
 <p>
-<b>HISTORY</b>: ▼0.1: initial release. ▼0.2: thanks to u/plankoe, Micro Dino now stays on top of the taskbar! ▼0.21: code optimization. ▼0.22: new info+instructions in tray-tooltip. ▼0.3: new collision detection, new game-over screen. ▼0.4: script now accepts 2 parameters for X and Y positions, script can now be moved (drag-n-drop)
+<b>HISTORY</b>:<br> 
+▼ 0.1: initial release.<br>
+▼ 0.2: thanks to u/plankoe, Micro Dino now stays on top of the taskbar!<br>
+<span>&nbsp;&nbsp;&nbsp;</span> 0.21: code optimization.<br>
+<span>&nbsp;&nbsp;&nbsp;</span> 0.22: new info+instructions in tray-tooltip.<br>
+▼ 0.3: new collision detection, new game-over screen.<br>
+▼ 0.4: script now accepts 2 parameters for X and Y, script can now be moved (drag-n-drop).<br>
+▼ 0.5: new system to keep GUI inside the screen.<br>
+▼ 0.6: new game-over, new high-score, new info when GUI is clicked.<br>
 </p>
